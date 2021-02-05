@@ -1,0 +1,17 @@
+#mainBackground{
+	background: gray;
+	height: 100vh;
+	width: 100vw;
+	align-items: center;
+}
+
+#mainBackground .container{
+	height: auto;
+	margin: 0px auto;
+	float: flex;
+	width: 90vw;
+	max-width: 800px;
+	border: 1px solid red;
+}
+
+
